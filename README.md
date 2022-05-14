@@ -12,5 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Skills
+------
+
+:coffee:         **Java** ([Adam's To-do][1], [Air2D][2])  
+:sunglasses:     **JavaScript** ([lnagb.js][3])  
+:ox:             **Bash** ([reveal-init][4], [gnu][5], [battery][6])  
+:computer_mouse: **Web 3D** w/ three.js ([three.js sketches][7])  
+:paintbrush:     **Graphics design** w/ Inkscape ([designs][8])
 
