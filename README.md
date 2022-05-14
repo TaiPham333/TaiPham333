@@ -9,11 +9,11 @@ I'm a **`Data Science Enthusiast`**.
 :wink: **Some Facts**:
 
 * :fire: I have a strong academic background from several fields including Risk, Accounting, and Finance.
-* :sunglasses: Currently pursuing Master of Business Analytics at **Macquarie University**.
+* :mortar_board: Currently pursuing Master of Business Analytics at **Macquarie University**.
 * :relaxed: I am a good listener, I am enjoy talking about Business, Data Science, or Boxing.
 * :sweat_drops: I always train when I'm sad or depressed.
 * :clap: I am not afraid to admit that I am failed.
 * :thumbsup: I appreciate little things happened during a day.
-
-
 ---
+## :sunglasses: Data Science Projects
+
