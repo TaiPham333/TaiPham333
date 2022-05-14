@@ -2,7 +2,7 @@
 
 # Hello there! :blush:
 
-## I'm [**Tai**](https://www.linkedin.com/in/tai-pham-716729139/), and It's nice to virtually meet you :bowtie:
+## I'm [**Tai**](https://www.linkedin.com/in/tai-pham-716729139/), and It's nice to virtually meet you :star:
 
 - 🔭 I’m currently working on ... Youtube
 - 🌱 I’m currently learning ... Python for Data Analytics
