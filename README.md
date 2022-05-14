@@ -4,10 +4,16 @@
 
 ## I'm [**Tai**](https://www.linkedin.com/in/tai-pham-716729139/), and It's nice to virtually meet you :star:
 
-I'm a **`Business Analytic post-graduate candidate`** at **Macquarie University, Sydney, Australia**.
+I'm a **`Data Science Enthusiast`**.
 ---
 :wink: **Some Facts**:
 
+* :fire: I have a strong academic background from several fields including Risk, Accounting, and Finance.
+* :sunglasses: Currently pursuing Master of Business Analytics at **Macquarie University**.
+* :relaxed: I am a good listener, I am enjoy talking about Business, Data Science, or Boxing.
+* :sweat_drops: I always train when I'm sad or depressed.
+* :clap: I am not afraid to admit that I am failed.
+* :thumbsup: I appreciate little things happened during a day.
 
 
 ---
