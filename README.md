@@ -17,3 +17,10 @@ I'm a **`Data Science Enthusiast`**.
 ---
 ## :sunglasses: Data Science Projects
 
+* MySQL
+* Natural Language Processing
+* Count Model
+* Time Series
+* Machine Learning
+* Data Visualization
+* Note: Not yet uploaded
