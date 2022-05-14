@@ -4,7 +4,10 @@
 
 ## I'm [**Tai**](https://www.linkedin.com/in/tai-pham-716729139/), and It's nice to virtually meet you :star:
 
+I'm a **`Business Analytic post-graduate candidate`** at **Macquarie University, Sydney, Australia**.
 ---
+
+:wink: **Some Facts**:
 
 - 🔭 I’m currently working on ... Youtube
 - 🌱 I’m currently learning ... Python for Data Analytics
