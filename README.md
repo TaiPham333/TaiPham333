@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ---
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
