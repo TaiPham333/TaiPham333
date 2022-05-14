@@ -6,16 +6,8 @@
 
 I'm a **`Business Analytic post-graduate candidate`** at **Macquarie University, Sydney, Australia**.
 ---
-
 :wink: **Some Facts**:
 
-- 🔭 I’m currently working on ... Youtube
-- 🌱 I’m currently learning ... Python for Data Analytics
-- 👯 I’m looking to collaborate on ... Machine Learning Project
-- 🤔 I’m looking for help with looking for a great opportunity. 
-- 💬 Ask me about anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 ---
