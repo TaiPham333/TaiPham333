@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ---
 
 1. A numbered list
-              1. A nested numbered list
+2. 1. A nested numbered list
               2. Which is numbered
               3.  Which is numbered
 
