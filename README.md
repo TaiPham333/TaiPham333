@@ -23,4 +23,3 @@ I'm a **`Data Science Enthusiast`**.
 * Time Series
 * Machine Learning
 * Data Visualization
-* **Note:** Not yet uploaded
